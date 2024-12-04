@@ -7,3 +7,4 @@
 * A slack bot which can uploads file in a slack channel
 
 3. Bing Scraper
+* Scraping data from bing browser
